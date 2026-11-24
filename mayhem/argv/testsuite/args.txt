@@ -1,0 +1,1 @@
+sdmc:/app.nro  "two words" last

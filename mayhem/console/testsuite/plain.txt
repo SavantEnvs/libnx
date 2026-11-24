@@ -1,0 +1,2 @@
+Hello, libnx console!
+line two	tab
